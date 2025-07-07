@@ -10,27 +10,7 @@ As part of the internship, I was required to complete **any three tasks** within
 
 ## 📁 Project Structure
 
-CODVEDA-INTERNSHIP/
-│
-├── Level 1/
-│   ├── number_guessing_game.py        - Number guessing game using random module
-│   ├── simple_calculator.py          - Basic calculator with error handling
-│   ├── word_counter.py               - Word counter from a file
-│   └── sample.txt                    - Sample text file for word counter
-│
-├── Level 2/
-│   ├── to_do_list_app.py             - CLI-based to-do list manager
-│   ├── data_scraper.py               - Web scraper using BeautifulSoup
-│   └── api_integration.py            - Script to fetch data from an external API
-│
-├── Level 3/
-│   ├── encrypter_decrypter.py        - File encryption and decryption (Fernet)
-│   ├── n_queens.py                   - Backtracking solution for N-Queens problem
-│   └── example.txt                   - Sample file for encryption/decryption
-│
-├── Python Development Task List.pdf  - Official task list from Codveda
-└── README.md                         - Project documentation
-
+<pre> ## 📁 Project Structure ``` CODVEDA-INTERNSHIP/ │ ├── Level 1/ │ ├── number_guessing_game.py - Number guessing game using random module │ ├── simple_calculator.py - Basic calculator with error handling │ ├── word_counter.py - Word counter from a file │ └── sample.txt - Sample text file for word counter │ ├── Level 2/ │ ├── to_do_list_app.py - CLI-based to-do list manager │ ├── data_scraper.py - Web scraper using BeautifulSoup │ └── api_integration.py - Script to fetch data from an external API │ ├── Level 3/ │ ├── encrypter_decrypter.py - File encryption and decryption (Fernet) │ ├── n_queens.py - Backtracking solution for N-Queens problem │ └── example.txt - Sample file for encryption/decryption │ ├── Python Development Task List.pdf - Official task list from Codveda └── README.md - Project documentation ``` </pre>
 ---
 
 ## ✅ Tasks Completed
